@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: bisque;
+}
+.header1{
+    background-color: white;
+    height: 200px;
+}
+.header1 img{
+    width: 300px;
+    padding: 10px 20px 0;
+}
+.navigator{
+    overflow: hidden;
+    background-color: #333;
+}
+.navigator a{
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 30px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.navigator a:hover{
+    background-color: #ddd;
+    color: black;
+}
+.container{
+    background-color: white;
+    border: 1px solid black;
+    height: 400px;
+    margin: 10px;
+    padding: 10px;
+}
+.content1{
+    padding: 20px;
+    width: 70%;
+    height: 360px;
+    float: right;
+}
+.content2{
+    background-color: rgb(179, 171, 153);
+    border-radius: 5px;
+    padding: 20px;
+    width: 20%;
+    height: 360px;
+}
+.header2{
+    text-align: center;
+}

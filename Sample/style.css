@@ -1,0 +1,38 @@
+body {
+    font-family:“Trebuchet MS”, Tahoma, Arial, sans-serif;
+    font-size: 100%;
+    margin: 0 20%;
+}
+h1{
+  line-height: 1.5em;
+}
+h2 {
+  font-size:1.125em; 
+  font-weight: normal;
+  /* border:1px red solid; */
+  margin-bottom:0em;
+  text-transform: uppercase;
+}
+p{
+  font-family:Georgia, "Times New Roman", Times, serif;  
+  font-size:0.875em; 
+  /*border:thin red solid;*/  
+  margin-top:0em;  
+  margin-bottom:1.5em;  
+  line-height:1.75em;
+}
+ol{
+  font-size:0.875em;
+}
+ul{
+  font-size: 0.875em;
+  background-color: #E5DAB3;
+  margin-bottom:2em;
+  padding-left:0em;
+}
+li{
+  background-color: #AA6C7E;
+}
+ul li{
+  background-color: #ABC8A5;
+}
