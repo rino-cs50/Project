@@ -21,18 +21,28 @@ p{
   margin-bottom:1.5em;  
   line-height:1.75em;
 }
-ol{
-  font-size:0.875em;
-}
 ul{
   font-size: 0.875em;
   background-color: #E5DAB3;
   margin-bottom:2em;
   padding-left:0em;
+  list-style-position: inside;
 }
 li{
   background-color: #AA6C7E;
 }
 ul li{
   background-color: #ABC8A5;
+  margin-top: 1em;
+  border: thin red solid;
+}
+ol{
+  font-size:0.875em;
+  background-color: blue;
+  padding-left: 0em;
+  list-style-position: inside;
+}
+ol li{
+  margin-top: 10px;
+  border: thin red solid;
 }
