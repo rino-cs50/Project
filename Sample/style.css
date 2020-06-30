@@ -1,7 +1,7 @@
 body {
     font-family:“Trebuchet MS”, Tahoma, Arial, sans-serif;
     font-size: 100%;
-    margin: 0 10%;
+    /*margin: 0 10%;*/
 }
 h1{
   line-height: 1.5em;
@@ -58,6 +58,7 @@ tr td{
 }
 .section-a{
   width: 30%;
+  text-align: center;
 }
 .section-b{
   width: 70%;
@@ -71,3 +72,8 @@ tr td{
   background-color: orange;
 }
 
+#wrap{
+  background-color: pink;
+  border: 1px solid black;
+  margin: 0 auto;
+}
