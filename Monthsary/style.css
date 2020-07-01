@@ -1,0 +1,12 @@
+body{
+    background-color: pink;
+    margin: 0 20%;
+}
+#demo2{
+    border: thin solid black;
+    border-radius: 10px;
+    background-color: rgb(252, 252, 120);
+    text-align: center;
+    padding: 10px;
+    box-shadow: 1px 1px 5px 2px gray;
+}
